@@ -12,7 +12,7 @@ public class DemoApplication {
 @Autowired RestTemplate restTemplate;	
 
 	public static void main(String[] args) {
-		System.out.println("Hello World from MySecondSpringProject");
+		System.out.println("Hello World, I am the starting point!");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 	
